@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**oropeval/oropeval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing efficient, user-friendly software using Java and JavaScript.
 - 🌱 I’m currently learning advanced React and backend development with Java.
@@ -14,4 +8,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also teach Spanish and enjoy skateboarding!
 
--->
+
